@@ -10,9 +10,7 @@ import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-/**
- * Created by m.ashrafzade on 11/5/2016.
- */
+
 
 public class ApiClient {
 //    public static String BaseUrl = "http://94.101.186.148:70/";

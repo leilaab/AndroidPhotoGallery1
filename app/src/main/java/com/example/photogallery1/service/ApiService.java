@@ -6,9 +6,6 @@ import com.example.photogallery1.model.CategoryResponse;
 import retrofit2.Call;
 import retrofit2.http.GET;
 
-/**
- * Created by Chike on 12/3/2016.
- */
 
 public interface ApiService {
 
